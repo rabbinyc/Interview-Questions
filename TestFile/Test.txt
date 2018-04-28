@@ -2,3 +2,21 @@ This is my test file
 i made changes " abdul is here on Github"
 I am working on it.
 i am about to leave
+
+#Sanzida
+I am working on it. It will be our practice text file.
+Great Job!!!!
+
+// This is modified on 4/28/18 by Rabbi
+Page Object Model Automation
+i made changes " abdul is here on Github"
+I am working on it.
+
+04/28/18
+today we learned Page Object Model
+and we use the following URL for automation
+
+http://www.seleniumeasy.com/test/jquery-dropdown-search-demo.html
+
+In POM, create one BasePage and follow the class video
+
