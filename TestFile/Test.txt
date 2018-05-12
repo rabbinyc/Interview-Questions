@@ -6,6 +6,7 @@ i am about to leave
 #Sanzida
 I am working on it. It will be our practice text file.
 Great Job!!!!
+Today we have learned how to resove conflict in github and also learned branching and merging
 
 // This is modified on 4/28/18 by Rabbi
 Page Object Model Automation
