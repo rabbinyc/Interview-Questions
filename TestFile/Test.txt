@@ -24,6 +24,7 @@ In POM, create one BasePage and follow the class video
 ok I am adding a new line to conclude the session today!!!
 
 
+
 As of now we have learned
 
 git pull
@@ -44,7 +45,8 @@ Make a change to your file with a git hosting tool and commit
 Create a "branch" (version), make a change, commit the change
 Open a "pull request" (propose changes to the master branch)
 "Merge" your branch to the master branch
-=======
+
+
 we almost done for today
 
 ok rabbi food is ready lets go and enjoy lunch
