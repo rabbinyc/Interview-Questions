@@ -23,4 +23,6 @@ In POM, create one BasePage and follow the class video
 
 ok I am adding a new line to conclude the session today!!!
 
+we almost done for today
+
 ok rabbi food is ready lets go and enjoy lunch
