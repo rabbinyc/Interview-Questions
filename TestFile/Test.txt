@@ -31,6 +31,7 @@ git pull
 
 git push
 
+
 05/12/28
 Basic Git commands
 How Git works
@@ -47,7 +48,4 @@ Open a "pull request" (propose changes to the master branch)
 "Merge" your branch to the master branch
 
 
-we almost done for today
-
-ok rabbi food is ready lets go and enjoy lunch
 
