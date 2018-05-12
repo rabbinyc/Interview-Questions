@@ -3,10 +3,15 @@ i made changes " abdul is here on Github"
 I am working on it.
 i am about to leave
 
-#Sanzida
+#Sanzida on 4/28/18
 I am working on it. It will be our practice text file.
 Great Job!!!!
 Today we have learned how to resove conflict in github and also learned branching and merging
+ 
+On Saturday, 5/12/18
+Hello everyone!!!!
+Did you practice github at home?
+
 
 // This is modified on 4/28/18 by Rabbi
 Page Object Model Automation
@@ -25,5 +30,4 @@ ok I am adding a new line to conclude the session today!!!
 
 ok rabbi food is ready lets go and enjoy lunch
 
-05/11/2018 by Sornali
-Hello Everybody!!!!!!
+
