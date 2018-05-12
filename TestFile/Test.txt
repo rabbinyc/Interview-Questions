@@ -6,6 +6,7 @@ i am about to leave
 #Sanzida
 I am working on it. It will be our practice text file.
 Great Job!!!!
+Today we have learned how to resove conflict in github and also learned branching and merging
 
 // This is modified on 4/28/18 by Rabbi
 Page Object Model Automation
@@ -21,6 +22,7 @@ http://www.seleniumeasy.com/test/jquery-dropdown-search-demo.html
 In POM, create one BasePage and follow the class video
 
 ok I am adding a new line to conclude the session today!!!
+
 
 As of now we have learned
 
@@ -42,3 +44,8 @@ Make a change to your file with a git hosting tool and commit
 Create a "branch" (version), make a change, commit the change
 Open a "pull request" (propose changes to the master branch)
 "Merge" your branch to the master branch
+=======
+we almost done for today
+
+ok rabbi food is ready lets go and enjoy lunch
+
