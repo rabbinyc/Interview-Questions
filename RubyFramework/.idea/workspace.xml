@@ -10,39 +10,39 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/RubyFramework@Scenario__Ajax_Form_Submit__1_.rcov" NAME="Scenario: Ajax Form Submit (1) Coverage Results" MODIFIED="1526349489364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubyFramework" />
+    <SUITE FILE_PATH="coverage/RubyFramework@Scenario__Checkbox_Functionality.rcov" NAME="Scenario: Checkbox Functionality Coverage Results" MODIFIED="1526740038863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubyFramework" />
+    <SUITE FILE_PATH="coverage/RubyFramework@Scenario__Sum_Functionality__1_.rcov" NAME="Scenario: Sum Functionality (1) Coverage Results" MODIFIED="1526401075801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubyFramework" />
+    <SUITE FILE_PATH="coverage/RubyFramework@Scenario__Dropdown_List_Functionality.rcov" NAME="Scenario: Dropdown List Functionality Coverage Results" MODIFIED="1526333064435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubyFramework" />
+    <SUITE FILE_PATH="coverage/RubyFramework@Scenario__Checkbox_Functionality__1_.rcov" NAME="Scenario: Checkbox Functionality (1) Coverage Results" MODIFIED="1526349312133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubyFramework" />
+    <SUITE FILE_PATH="coverage/RubyFramework@Scenario__Radio_Button_Functionality__4_.rcov" NAME="Scenario: Radio Button Functionality (4) Coverage Results" MODIFIED="1525377060388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubyFramework" />
+    <SUITE FILE_PATH="coverage/RubyFramework@Scenario__Login__2_.rcov" NAME="Scenario: Login (2) Coverage Results" MODIFIED="1524324719118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubyFramework" />
+    <SUITE FILE_PATH="coverage/RubyFramework@Scenario__Ajax_Form_Submit.rcov" NAME="Scenario: Ajax Form Submit Coverage Results" MODIFIED="1526740356081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubyFramework" />
+    <SUITE FILE_PATH="coverage/RubyFramework@Scenario__Ajax_Form_Submit__2_.rcov" NAME="Scenario: Ajax Form Submit (2) Coverage Results" MODIFIED="1526401039934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubyFramework" />
+    <SUITE FILE_PATH="coverage/RubyFramework@Scenario__Dropdown_List_Functionality__2_.rcov" NAME="Scenario: Dropdown List Functionality (2) Coverage Results" MODIFIED="1526143063815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubyFramework" />
+    <SUITE FILE_PATH="coverage/RubyFramework@Scenario__Input_Form_Submit_With_No.rcov" NAME="Scenario: Input Form Submit With No Coverage Results" MODIFIED="1526746722601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubyFramework" />
+    <SUITE FILE_PATH="coverage/RubyFramework@Scenario__Login.rcov" NAME="Scenario: Login Coverage Results" MODIFIED="1523712184947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubyFramework" />
+    <SUITE FILE_PATH="coverage/RubyFramework@Scenario__Input_Form_Submit_With_No__2_.rcov" NAME="Scenario: Input Form Submit With No (2) Coverage Results" MODIFIED="1526349078763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubyFramework" />
+    <SUITE FILE_PATH="coverage/RubyFramework@Scenario__Checkbox_Fuctionality__1_.rcov" NAME="Scenario: Checkbox Fuctionality (1) Coverage Results" MODIFIED="1525317017057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubyFramework" />
+    <SUITE FILE_PATH="coverage/RubyFramework@Scenario__Radio_Button_Functionality__2_.rcov" NAME="Scenario: Radio Button Functionality (2) Coverage Results" MODIFIED="1525977711131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubyFramework" />
+    <SUITE FILE_PATH="coverage/RubyFramework@Scenario__Login__3_.rcov" NAME="Scenario: Login (3) Coverage Results" MODIFIED="1525184220066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubyFramework" />
     <SUITE FILE_PATH="coverage/RubyFramework@Scenario__Input_Form_Submit_With_yes__1_.rcov" NAME="Scenario: Input Form Submit With yes (1) Coverage Results" MODIFIED="1526331921712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubyFramework" />
     <SUITE FILE_PATH="coverage/RubyFramework@Scenario__Radio_Button_Functionality__3_.rcov" NAME="Scenario: Radio Button Functionality (3) Coverage Results" MODIFIED="1525376931056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubyFramework" />
-    <SUITE FILE_PATH="coverage/RubyFramework@Scenario__Sum_Functionality__1_.rcov" NAME="Scenario: Sum Functionality (1) Coverage Results" MODIFIED="1526401075801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubyFramework" />
-    <SUITE FILE_PATH="coverage/RubyFramework@OrangeHRM_feature.rcov" NAME="OrangeHRM.feature Coverage Results" MODIFIED="1523711066358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubyFramework" />
-    <SUITE FILE_PATH="coverage/RubyFramework@Scenario__Input_Form_Submit_With_No.rcov" NAME="Scenario: Input Form Submit With No Coverage Results" MODIFIED="1526400966236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubyFramework" />
-    <SUITE FILE_PATH="coverage/RubyFramework@DataBaseExample_feature.coverage" NAME="DataBaseExample.feature Coverage Results" MODIFIED="1524322481320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubyFramework" />
-    <SUITE FILE_PATH="coverage/RubyFramework@Scenario__Input_Form_Submit_With_No__1_.rcov" NAME="Scenario: Input Form Submit With No (1) Coverage Results" MODIFIED="1526349057323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubyFramework" />
     <SUITE FILE_PATH="coverage/RubyFramework@SeleniumEasyTestSuite_feature.rcov" NAME="SeleniumEasyTestSuite.feature Coverage Results" MODIFIED="1526143344207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubyFramework" />
-    <SUITE FILE_PATH="coverage/RubyFramework@Scenario__Radio_Button_Functionality.rcov" NAME="Scenario: Radio Button Functionality Coverage Results" MODIFIED="1526333012110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubyFramework" />
-    <SUITE FILE_PATH="coverage/RubyFramework@Scenario__Dropdown_List_Functionality__3_.rcov" NAME="Scenario: Dropdown List Functionality (3) Coverage Results" MODIFIED="1526143223852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubyFramework" />
-    <SUITE FILE_PATH="coverage/RubyFramework@Scenario__Radio_Button_Functionality__1_.rcov" NAME="Scenario: Radio Button Functionality (1) Coverage Results" MODIFIED="1525377522462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubyFramework" />
-    <SUITE FILE_PATH="coverage/RubyFramework@Scenario__Dropdown_List_Functionality__1_.rcov" NAME="Scenario: Dropdown List Functionality (1) Coverage Results" MODIFIED="1526331962163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubyFramework" />
-    <SUITE FILE_PATH="coverage/RubyFramework@Scenario__Ajax_Form_Submit__2_.rcov" NAME="Scenario: Ajax Form Submit (2) Coverage Results" MODIFIED="1526401039934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubyFramework" />
-    <SUITE FILE_PATH="coverage/RubyFramework@Scenario__Login__3_.rcov" NAME="Scenario: Login (3) Coverage Results" MODIFIED="1525184220066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubyFramework" />
-    <SUITE FILE_PATH="coverage/RubyFramework@Scenario__Checkbox_Functionality__1_.rcov" NAME="Scenario: Checkbox Functionality (1) Coverage Results" MODIFIED="1526349312133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubyFramework" />
-    <SUITE FILE_PATH="coverage/RubyFramework@Scenario__Dropdown_List_Functionality.rcov" NAME="Scenario: Dropdown List Functionality Coverage Results" MODIFIED="1526333064435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubyFramework" />
-    <SUITE FILE_PATH="coverage/RubyFramework@Scenario__Checkbox_Fuctionality.rcov" NAME="Scenario: Checkbox Fuctionality Coverage Results" MODIFIED="1525316733064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubyFramework" />
-    <SUITE FILE_PATH="coverage/RubyFramework@Scenario__Ajax_Form_Submit.rcov" NAME="Scenario: Ajax Form Submit Coverage Results" MODIFIED="1526740356081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubyFramework" />
     <SUITE FILE_PATH="coverage/RubyFramework@Scenario__Login__1_.rcov" NAME="Scenario: Login (1) Coverage Results" MODIFIED="1523710929509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubyFramework" />
+    <SUITE FILE_PATH="coverage/RubyFramework@Scenario__Radio_Button_Functionality.rcov" NAME="Scenario: Radio Button Functionality Coverage Results" MODIFIED="1526333012110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubyFramework" />
+    <SUITE FILE_PATH="coverage/RubyFramework@Scenario__Radio_Button_Functionality__1_.rcov" NAME="Scenario: Radio Button Functionality (1) Coverage Results" MODIFIED="1525377522462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubyFramework" />
+    <SUITE FILE_PATH="coverage/RubyFramework@Scenario__Input_Form_Submit_With_No__1_.rcov" NAME="Scenario: Input Form Submit With No (1) Coverage Results" MODIFIED="1526349057323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubyFramework" />
+    <SUITE FILE_PATH="coverage/RubyFramework@Scenario__Checkbox_Fuctionality.rcov" NAME="Scenario: Checkbox Fuctionality Coverage Results" MODIFIED="1525316733064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubyFramework" />
     <SUITE FILE_PATH="coverage/RubyFramework@OrangeHRM_feature.coverage" NAME="OrangeHRM.feature Coverage Results" MODIFIED="1524322546431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubyFramework" />
-    <SUITE FILE_PATH="coverage/RubyFramework@Scenario__Radio_Button_Functionality__4_.rcov" NAME="Scenario: Radio Button Functionality (4) Coverage Results" MODIFIED="1525377060388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubyFramework" />
-    <SUITE FILE_PATH="coverage/RubyFramework@Scenario__Sum_Functionality.rcov" NAME="Scenario: Sum Functionality Coverage Results" MODIFIED="1526740201058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubyFramework" />
-    <SUITE FILE_PATH="coverage/RubyFramework@Scenario__Checkbox_Fuctionality__1_.rcov" NAME="Scenario: Checkbox Fuctionality (1) Coverage Results" MODIFIED="1525317017057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubyFramework" />
-    <SUITE FILE_PATH="coverage/RubyFramework@Scenario__Input_Form_Submit_With_yes.rcov" NAME="Scenario: Input Form Submit With yes Coverage Results" MODIFIED="1526349616626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubyFramework" />
-    <SUITE FILE_PATH="coverage/RubyFramework@Scenario__Login.rcov" NAME="Scenario: Login Coverage Results" MODIFIED="1523712184947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubyFramework" />
-    <SUITE FILE_PATH="coverage/RubyFramework@Scenario__Login__2_.rcov" NAME="Scenario: Login (2) Coverage Results" MODIFIED="1524324719118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubyFramework" />
     <SUITE FILE_PATH="coverage/RubyFramework@Scenario__Radio_Button_Functionality__5_.rcov" NAME="Scenario: Radio Button Functionality (5) Coverage Results" MODIFIED="1525377209328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubyFramework" />
-    <SUITE FILE_PATH="coverage/RubyFramework@Scenario__Input_Form_Submit_With_No__2_.rcov" NAME="Scenario: Input Form Submit With No (2) Coverage Results" MODIFIED="1526349078763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubyFramework" />
     <SUITE FILE_PATH="coverage/RubyFramework@Scenario__Login__4_.rcov" NAME="Scenario: Login (4) Coverage Results" MODIFIED="1523712076191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubyFramework" />
-    <SUITE FILE_PATH="coverage/RubyFramework@Scenario__Radio_Button_Functionality__2_.rcov" NAME="Scenario: Radio Button Functionality (2) Coverage Results" MODIFIED="1525977711131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubyFramework" />
-    <SUITE FILE_PATH="coverage/RubyFramework@Scenario__Dropdown_List_Functionality__2_.rcov" NAME="Scenario: Dropdown List Functionality (2) Coverage Results" MODIFIED="1526143063815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubyFramework" />
-    <SUITE FILE_PATH="coverage/RubyFramework@Scenario__Checkbox_Functionality.rcov" NAME="Scenario: Checkbox Functionality Coverage Results" MODIFIED="1526740038863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubyFramework" />
+    <SUITE FILE_PATH="coverage/RubyFramework@Scenario__Ajax_Form_Submit__1_.rcov" NAME="Scenario: Ajax Form Submit (1) Coverage Results" MODIFIED="1526349489364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubyFramework" />
+    <SUITE FILE_PATH="coverage/RubyFramework@Scenario__Dropdown_List_Functionality__1_.rcov" NAME="Scenario: Dropdown List Functionality (1) Coverage Results" MODIFIED="1526331962163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubyFramework" />
+    <SUITE FILE_PATH="coverage/RubyFramework@Scenario__Input_Form_Submit_With_yes.rcov" NAME="Scenario: Input Form Submit With yes Coverage Results" MODIFIED="1526349616626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubyFramework" />
+    <SUITE FILE_PATH="coverage/RubyFramework@Scenario__Dropdown_List_Functionality__3_.rcov" NAME="Scenario: Dropdown List Functionality (3) Coverage Results" MODIFIED="1526143223852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubyFramework" />
+    <SUITE FILE_PATH="coverage/RubyFramework@Scenario__Sum_Functionality.rcov" NAME="Scenario: Sum Functionality Coverage Results" MODIFIED="1526740201058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubyFramework" />
+    <SUITE FILE_PATH="coverage/RubyFramework@OrangeHRM_feature.rcov" NAME="OrangeHRM.feature Coverage Results" MODIFIED="1523711066358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubyFramework" />
+    <SUITE FILE_PATH="coverage/RubyFramework@DataBaseExample_feature.coverage" NAME="DataBaseExample.feature Coverage Results" MODIFIED="1524322481320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubyFramework" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -64,20 +64,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SeleniumEasyTestSuite.feature" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SeleniumEasyTestSuite.feature" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/features/SeleniumEasyTestSuite.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
-              <caret line="59" column="17" selection-start-line="59" selection-start-column="17" selection-end-line="59" selection-end-column="17" />
+            <state relative-caret-position="43">
+              <caret line="49" column="23" selection-start-line="49" selection-start-column="23" selection-end-line="49" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gemfile" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Gemfile" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="111">
-              <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+            <state relative-caret-position="289">
+              <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -189,7 +189,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="C:/RubyBaseFramework" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.ruby.settings.RubyActiveModuleSdkConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -204,38 +204,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Cucumber.Scenario: Ajax Form Submit">
-    <configuration name="Scenario: Ajax Form Submit (2)" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
-      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
-      <module name="RubyFramework" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs>
-        <env name="JRUBY_OPTS" value="-X+O" />
-      </envs>
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/features/SeleniumEasyTestSuite.feature" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^Ajax Form Submit$" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
-    </configuration>
+  <component name="RunManager" selected="Cucumber.Scenario: Input Form Submit With No">
     <configuration name="Scenario: Ajax Form Submit" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
       <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
       <module name="RubyFramework" />
@@ -287,6 +256,37 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/features/SeleniumEasyTestSuite.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^Checkbox Functionality$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+    </configuration>
+    <configuration name="Scenario: Input Form Submit With No" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
+      <module name="RubyFramework" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/features/SeleniumEasyTestSuite.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^Input Form Submit With No$" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
@@ -361,19 +361,19 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
     </configuration>
     <list>
-      <item itemvalue="Cucumber.Scenario: Ajax Form Submit (2)" />
       <item itemvalue="Cucumber.Scenario: Sum Functionality (1)" />
       <item itemvalue="Cucumber.Scenario: Checkbox Functionality" />
       <item itemvalue="Cucumber.Scenario: Sum Functionality" />
       <item itemvalue="Cucumber.Scenario: Ajax Form Submit" />
+      <item itemvalue="Cucumber.Scenario: Input Form Submit With No" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Cucumber.Scenario: Input Form Submit With No" />
         <item itemvalue="Cucumber.Scenario: Ajax Form Submit" />
         <item itemvalue="Cucumber.Scenario: Sum Functionality" />
         <item itemvalue="Cucumber.Scenario: Checkbox Functionality" />
         <item itemvalue="Cucumber.Scenario: Sum Functionality (1)" />
-        <item itemvalue="Cucumber.Scenario: Ajax Form Submit (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -413,6 +413,7 @@
       <workItem from="1526400953709" duration="633000" />
       <workItem from="1526740019498" duration="472000" />
       <workItem from="1526741003436" duration="1524000" />
+      <workItem from="1526746434933" duration="295000" />
     </task>
     <servers />
   </component>
@@ -449,7 +450,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60254000" />
+    <option name="totallyTimeSpent" value="60549000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -458,11 +459,11 @@
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23645681" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.10468521" side_tool="true" visible="true" weight="0.32704404" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.105417274" side_tool="true" visible="true" weight="0.32598424" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8953148" weight="0.32704404" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.89458275" visible="true" weight="0.32598424" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -479,19 +480,19 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23645681" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32704404" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32861635" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -504,13 +505,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/features/SeleniumEasyTestSuite.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1003">
-          <caret line="59" column="17" selection-start-line="59" selection-start-column="17" selection-end-line="59" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/pages/selenium_easy_home_page.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -835,17 +829,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/features/SeleniumEasyTestSuite.feature">
+    <entry file="file://$PROJECT_DIR$/Gemfile.lock">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="59" column="17" selection-start-line="59" selection-start-column="17" selection-end-line="59" selection-end-column="17" />
+        <state relative-caret-position="-1385">
+          <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        <state relative-caret-position="289">
+          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/SeleniumEasyTestSuite.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43">
+          <caret line="49" column="23" selection-start-line="49" selection-start-column="23" selection-end-line="49" selection-end-column="23" />
         </state>
       </provider>
     </entry>

@@ -20,7 +20,7 @@ gem 'headless'
 # gem 'mysql2'
 gem 'sqlite3'
 # gem 'rest-client'
-gem 'json'
+gem 'json','1.8.3'
 
 
 
