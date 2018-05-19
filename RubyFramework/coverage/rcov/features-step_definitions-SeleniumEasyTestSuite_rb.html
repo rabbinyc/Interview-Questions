@@ -1,0 +1,326 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang='en' xml:lang='en' xmlns='http://www.w3.org/1999/xhtml'>
+  <head>
+    <title>features/step_definitions/SeleniumEasyTestSuite.rb</title>
+    <link href="./assets/0.2.3/screen.css" media="all" rel="stylesheet" type="text/css" />
+    <link href="./assets/0.2.3/print.css" media="print" rel="stylesheet" type="text/css" />
+    <meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
+    <script type="text/javascript" src="./assets/0.2.3/rcov.js"></script>
+  </head>
+  <body>
+    <h1>Rubyframework C0 Coverage Information - Simploco - RCov</h1>
+    <h2>features/step_definitions/SeleniumEasyTestSuite.rb</h2>
+
+    <div class="report_table_wrapper">
+      <table class='report' id='report_table'>
+        <thead>
+          <tr>
+            <th class="left_align">Name</th>
+            <th class="right_align">Total Lines</th>
+            <th class="right_align">Lines of Code</th>
+            <th class="left_align">Total Coverage</th>
+            <th class="left_align">Code Coverage</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="left_align"><a href="features-step_definitions-SeleniumEasyTestSuite_rb.html">features/step_definitions/SeleniumEasyTestSuite.rb</a></td>
+            <td class='right_align'><tt>89</tt></td>
+            <td class='right_align'><tt>49</tt></td>
+            <td class="left_align"><div class="percent_graph_legend"><tt class=''>76.40%</tt></div>
+      <div class="percent_graph">
+        <div class="covered" style="width:76px"></div>
+        <div class="uncovered" style="width:24px"></div>
+      </div></td>
+            <td class="left_align"><div class="percent_graph_legend"><tt class=''>57.14%</tt></div>
+      <div class="percent_graph">
+        <div class="covered" style="width:57px"></div>
+        <div class="uncovered" style="width:43px"></div>
+      </div></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <h3>Key</h3>
+
+    <div class="key"><pre><span class='marked'>Code reported as executed by Ruby looks like this...</span><span class='marked1'>and this: this line is also marked as covered.</span><span class='inferred'>Lines considered as run by rcov, but not reported by Ruby, look like this,</span><span class='inferred1'>and this: these lines were inferred by rcov (using simple heuristics).</span><span class='uncovered'>Finally, here's a line marked as not executed.</span></pre></div>
+
+    <h3>Coverage Details</h3>
+
+    <table class="details">
+      <tbody>
+        <tr class="marked">
+          <td><pre><a name="line2">2</a> Given(/^User navigate to the Selenium Easy Home Page$/) do</pre></td>
+        </tr>
+        <tr class="marked">
+          <td><pre><a name="line3">3</a> sleep 3</pre></td>
+        </tr>
+        <tr class="marked">
+          <td><pre><a name="line4">4</a>   visit SeleniumEasyHomePage</pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line5">5</a> end</pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line6">6</a> </pre></td>
+        </tr>
+        <tr class="marked">
+          <td><pre><a name="line7">7</a> When(/^User click on the Input Form Drop Down Menu$/) do</pre></td>
+        </tr>
+        <tr class="marked">
+          <td><pre><a name="line8">8</a> on(SeleniumEasyHomePage).clickOninputFormsDropDown</pre></td>
+        </tr>
+        <tr class="marked">
+          <td><pre><a name="line9">9</a>   sleep 2</pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line10">10</a> end</pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line11">11</a> </pre></td>
+        </tr>
+        <tr class="marked">
+          <td><pre><a name="line12">12</a> Then(/^User select Simple Form Demo$/) do</pre></td>
+        </tr>
+        <tr class="uncovered">
+          <td><pre><a name="line13">13</a>   on(SeleniumEasyHomePage).clickOnsimpleFormDemo</pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line14">14</a> end</pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line15">15</a> </pre></td>
+        </tr>
+        <tr class="marked">
+          <td><pre><a name="line16">16</a> And(/^User fill up all the Information$/) do</pre></td>
+        </tr>
+        <tr class="uncovered">
+          <td><pre><a name="line17">17</a>   on(SimpleFormPage).FillUpAllTheInfo</pre></td>
+        </tr>
+        <tr class="uncovered">
+          <td><pre><a name="line18">18</a>   sleep 4</pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line19">19</a> end</pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line20">20</a> </pre></td>
+        </tr>
+        <tr class="marked">
+          <td><pre><a name="line21">21</a> And(/^User click on Get Total Button$/) do</pre></td>
+        </tr>
+        <tr class="uncovered">
+          <td><pre><a name="line22">22</a>   on(SimpleFormPage).clickOngetTotal</pre></td>
+        </tr>
+        <tr class="uncovered">
+          <td><pre><a name="line23">23</a>   sleep 6</pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line24">24</a> end</pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line25">25</a> </pre></td>
+        </tr>
+        <tr class="marked">
+          <td><pre><a name="line26">26</a> Then(/^User click on Checkbox Demo$/) do</pre></td>
+        </tr>
+        <tr class="uncovered">
+          <td><pre><a name="line27">27</a>   on(SeleniumEasyHomePage).clickOncheckboxDemo</pre></td>
+        </tr>
+        <tr class="uncovered">
+          <td><pre><a name="line28">28</a>   sleep 3</pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line29">29</a> end</pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line30">30</a> </pre></td>
+        </tr>
+        <tr class="marked">
+          <td><pre><a name="line31">31</a> And(/^User select Single Checkbox Demo Checkbox$/) do</pre></td>
+        </tr>
+        <tr class="uncovered">
+          <td><pre><a name="line32">32</a>   on(CheckboxDemoPage).clickOnsingleCheckboxDemo</pre></td>
+        </tr>
+        <tr class="uncovered">
+          <td><pre><a name="line33">33</a>   sleep 4</pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line34">34</a> end</pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line35">35</a> </pre></td>
+        </tr>
+        <tr class="marked">
+          <td><pre><a name="line36">36</a> And(/^User click Check All on Multiple Checkbox Demo module$/) do</pre></td>
+        </tr>
+        <tr class="uncovered">
+          <td><pre><a name="line37">37</a>   on(CheckboxDemoPage).clickOnmultipleCheckboxDemo</pre></td>
+        </tr>
+        <tr class="uncovered">
+          <td><pre><a name="line38">38</a>   sleep 4</pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line39">39</a> end</pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line40">40</a> </pre></td>
+        </tr>
+        <tr class="marked">
+          <td><pre><a name="line41">41</a> Then(/^User click on Select Dropdown List$/) do</pre></td>
+        </tr>
+        <tr class="uncovered">
+          <td><pre><a name="line42">42</a>   on(SeleniumEasyHomePage).clickOnselectDropDownList</pre></td>
+        </tr>
+        <tr class="uncovered">
+          <td><pre><a name="line43">43</a>   sleep 4</pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line44">44</a> end</pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line45">45</a> </pre></td>
+        </tr>
+        <tr class="marked">
+          <td><pre><a name="line46">46</a> And(/^User Select a Day from Dropdown manu$/) do</pre></td>
+        </tr>
+        <tr class="uncovered">
+          <td><pre><a name="line47">47</a>   on(DropDownListPage).selectADayFromDropdown</pre></td>
+        </tr>
+        <tr class="uncovered">
+          <td><pre><a name="line48">48</a>   sleep 6</pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line49">49</a> end</pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line50">50</a> </pre></td>
+        </tr>
+        <tr class="marked">
+          <td><pre><a name="line51">51</a> Then(/^User Select state from multi Select List Demo$/) do</pre></td>
+        </tr>
+        <tr class="uncovered">
+          <td><pre><a name="line52">52</a>   on(DropDownListPage).selectaStateFromMultiSelectList</pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line53">53</a> end</pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line54">54</a> </pre></td>
+        </tr>
+        <tr class="marked">
+          <td><pre><a name="line55">55</a> And(/^User click on First Selected Button$/) do</pre></td>
+        </tr>
+        <tr class="uncovered">
+          <td><pre><a name="line56">56</a>   on(DropDownListPage).clickOnFirstSelectedButton</pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line57">57</a> end</pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line58">58</a> </pre></td>
+        </tr>
+        <tr class="marked">
+          <td><pre><a name="line59">59</a> Then(/^User click on Input Form Submit$/) do</pre></td>
+        </tr>
+        <tr class="uncovered">
+          <td><pre><a name="line60">60</a>   on(SeleniumEasyHomePage).selectInputFormSubmit</pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line61">61</a> end</pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line62">62</a> </pre></td>
+        </tr>
+        <tr class="marked">
+          <td><pre><a name="line63">63</a> Then(/^User fill out all the Information$/) do</pre></td>
+        </tr>
+        <tr class="uncovered">
+          <td><pre><a name="line64">64</a>   on(InputFormPage).fillOutAllInfoWithYes</pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line65">65</a> end</pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line66">66</a> </pre></td>
+        </tr>
+        <tr class="marked">
+          <td><pre><a name="line67">67</a> And(/^User click On Send Button$/) do</pre></td>
+        </tr>
+        <tr class="uncovered">
+          <td><pre><a name="line68">68</a>   on(InputFormPage).clickOnSendButton</pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line69">69</a> end</pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line70">70</a> </pre></td>
+        </tr>
+        <tr class="marked">
+          <td><pre><a name="line71">71</a> Then(/^User fill out all the Information no option$/) do</pre></td>
+        </tr>
+        <tr class="uncovered">
+          <td><pre><a name="line72">72</a>   on(InputFormPage).fillOutAllInfoWithNo</pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line73">73</a> end</pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line74">74</a> </pre></td>
+        </tr>
+        <tr class="marked">
+          <td><pre><a name="line75">75</a> Then(/^User click on Ajax Form Submit$/) do</pre></td>
+        </tr>
+        <tr class="marked">
+          <td><pre><a name="line76">76</a>   on(SeleniumEasyHomePage).selectAjaxForm</pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line77">77</a> end</pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line78">78</a> </pre></td>
+        </tr>
+        <tr class="marked">
+          <td><pre><a name="line79">79</a> Then(/^User Fill up Ajax Form$/) do</pre></td>
+        </tr>
+        <tr class="marked">
+          <td><pre><a name="line80">80</a>   on(AjaxFormPage).fillupAjaxForm</pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line81">81</a> end</pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line82">82</a> </pre></td>
+        </tr>
+        <tr class="marked">
+          <td><pre><a name="line83">83</a> Then(/^User click on Submit Button$/) do</pre></td>
+        </tr>
+        <tr class="marked">
+          <td><pre><a name="line84">84</a>   on(AjaxFormPage).clickOnSubmitButton</pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line85">85</a> end</pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line86">86</a> </pre></td>
+        </tr>
+        <tr class="marked">
+          <td><pre><a name="line87">87</a> And(/^User get the Successfull Message$/) do</pre></td>
+        </tr>
+        <tr class="marked">
+          <td><pre><a name="line88">88</a>   on(AjaxFormPage).printAndVerifySuccessMSG</pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line89">89</a> end</pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line90">90</a> </pre></td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p>Generated on 2018-05-19 10:33:05 -0400 with <a href="https://github.com/fguillen/simplecov-rcov">SimpleCov-RCov 0.2.3</a></p>
+
+  </body>
+</html>
