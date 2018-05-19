@@ -1,0 +1,29 @@
+source 'http://rubygems.org'
+
+gem 'cucumber'
+gem 'rspec'
+gem 'selenium-webdriver'
+gem 'watir-webdriver'
+gem "chromedriver-helper"
+gem 'require_all','1.5.0'
+gem 'activesupport', '4.1.8'
+gem 'rake'
+gem 'simplecov'
+gem 'simplecov-rcov'
+gem 'rautomation'
+gem 'rubyXL'
+gem 'rubyzip'
+gem 'activerecord'
+gem 'nokogiri'
+gem 'headless'
+# gem 'mysql'
+# gem 'mysql2'
+gem 'sqlite3'
+# gem 'rest-client'
+gem 'json'
+
+
+
+
+
+

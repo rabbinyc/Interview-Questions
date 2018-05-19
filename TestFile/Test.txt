@@ -3,9 +3,13 @@ i made changes " abdul is here on Github"
 I am working on it.
 i am about to leave
 
-#Sanzida
+#Sanzida on 4/28/18
 I am working on it. It will be our practice text file.
 Great Job!!!!
+Today we have learned how to resove conflict in github and also learned branching and merging
+On Saturday, 5/12/18
+Hello everyone!!!!
+Did you practice github at home?
 
 // This is modified on 4/28/18 by Rabbi
 Page Object Model Automation
@@ -22,6 +26,29 @@ In POM, create one BasePage and follow the class video
 
 ok I am adding a new line to conclude the session today!!!
 
-we almost done for today
+As of now we have learned
+
+git pull
+
+git push
+
+
+05/12/28
+Basic Git commands
+How Git works
+Here is a basic overview of how Git works:
+Create a "repository" (project) with a git hosting tool (like Bitbucket)
+Copy (or clone) the repository to your local machine
+Add a file to your local repo and "commit" (save) the changes
+"Push" your changes to your master branch
+Make a change to your file with a git hosting tool and commit
+"Pull" the changes to your local machine
+Create a "branch" (version), make a change, commit the change
+Open a "pull request" (propose changes to the master branch)
+"Merge" your branch to the master branch
+
 
 ok rabbi food is ready lets go and enjoy lunch
+
+
+

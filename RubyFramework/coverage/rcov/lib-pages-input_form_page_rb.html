@@ -1,0 +1,224 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang='en' xml:lang='en' xmlns='http://www.w3.org/1999/xhtml'>
+  <head>
+    <title>lib/pages/input_form_page.rb</title>
+    <link href="./assets/0.2.3/screen.css" media="all" rel="stylesheet" type="text/css" />
+    <link href="./assets/0.2.3/print.css" media="print" rel="stylesheet" type="text/css" />
+    <meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
+    <script type="text/javascript" src="./assets/0.2.3/rcov.js"></script>
+  </head>
+  <body>
+    <h1>Rubyframework C0 Coverage Information - Simploco - RCov</h1>
+    <h2>lib/pages/input_form_page.rb</h2>
+
+    <div class="report_table_wrapper">
+      <table class='report' id='report_table'>
+        <thead>
+          <tr>
+            <th class="left_align">Name</th>
+            <th class="right_align">Total Lines</th>
+            <th class="right_align">Lines of Code</th>
+            <th class="left_align">Total Coverage</th>
+            <th class="left_align">Code Coverage</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="left_align"><a href="lib-pages-input_form_page_rb.html">lib/pages/input_form_page.rb</a></td>
+            <td class='right_align'><tt>55</tt></td>
+            <td class='right_align'><tt>40</tt></td>
+            <td class="left_align"><div class="percent_graph_legend"><tt class=''>58.18%</tt></div>
+      <div class="percent_graph">
+        <div class="covered" style="width:58px"></div>
+        <div class="uncovered" style="width:42px"></div>
+      </div></td>
+            <td class="left_align"><div class="percent_graph_legend"><tt class=''>42.50%</tt></div>
+      <div class="percent_graph">
+        <div class="covered" style="width:43px"></div>
+        <div class="uncovered" style="width:57px"></div>
+      </div></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <h3>Key</h3>
+
+    <div class="key"><pre><span class='marked'>Code reported as executed by Ruby looks like this...</span><span class='marked1'>and this: this line is also marked as covered.</span><span class='inferred'>Lines considered as run by rcov, but not reported by Ruby, look like this,</span><span class='inferred1'>and this: these lines were inferred by rcov (using simple heuristics).</span><span class='uncovered'>Finally, here's a line marked as not executed.</span></pre></div>
+
+    <h3>Coverage Details</h3>
+
+    <table class="details">
+      <tbody>
+        <tr class="marked">
+          <td><pre><a name="line2">2</a> class InputFormPage&lt;BasePage</pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line3">3</a> </pre></td>
+        </tr>
+        <tr class="marked">
+          <td><pre><a name="line4">4</a>   element(:firstNameField) {|b|b.text_field(name:&quot;first_name&quot;)}</pre></td>
+        </tr>
+        <tr class="marked">
+          <td><pre><a name="line5">5</a>   element(:lastNameField) {|b|b.text_field(name:&quot;last_name&quot;)}</pre></td>
+        </tr>
+        <tr class="marked">
+          <td><pre><a name="line6">6</a>   element(:emailAddress) {|b|b.text_field(name:&quot;email&quot;)}</pre></td>
+        </tr>
+        <tr class="marked">
+          <td><pre><a name="line7">7</a>   element(:phoneNum) {|b|b.text_field(name:&quot;phone&quot;)}</pre></td>
+        </tr>
+        <tr class="marked">
+          <td><pre><a name="line8">8</a>   element(:addressField) {|b|b.text_field(name:&quot;address&quot;)}</pre></td>
+        </tr>
+        <tr class="marked">
+          <td><pre><a name="line9">9</a>   element(:cityName) {|b|b.text_field(name:&quot;city&quot;)}</pre></td>
+        </tr>
+        <tr class="marked">
+          <td><pre><a name="line10">10</a>   element(:stateName) {|b|b.select(name:&quot;state&quot;)}</pre></td>
+        </tr>
+        <tr class="marked">
+          <td><pre><a name="line11">11</a>   element(:zipCode) {|b|b.text_field(name:&quot;zip&quot;)}</pre></td>
+        </tr>
+        <tr class="marked">
+          <td><pre><a name="line12">12</a>   element(:websiteName) {|b|b.text_field(name:&quot;website&quot;)}</pre></td>
+        </tr>
+        <tr class="marked">
+          <td><pre><a name="line13">13</a>   element(:noHosting) {|b|b.radio(value:&quot;no&quot;)}</pre></td>
+        </tr>
+        <tr class="marked">
+          <td><pre><a name="line14">14</a>   element(:yesHosting) {|b|b.radio(value:&quot;yes&quot;)}</pre></td>
+        </tr>
+        <tr class="marked">
+          <td><pre><a name="line15">15</a>   element(:projectDes) {|b|b.textarea(name:&quot;comment&quot;)}</pre></td>
+        </tr>
+        <tr class="marked">
+          <td><pre><a name="line16">16</a>   element(:sendBtn) {|b|b.button(text:&quot;Send&quot;)}</pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line17">17</a> </pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line18">18</a> </pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line19">19</a> </pre></td>
+        </tr>
+        <tr class="marked">
+          <td><pre><a name="line20">20</a>   def fillOutAllInfoWithYes</pre></td>
+        </tr>
+        <tr class="uncovered">
+          <td><pre><a name="line21">21</a>     firstNameField.when_present.set(&#39;Sornali&#39;)</pre></td>
+        </tr>
+        <tr class="uncovered">
+          <td><pre><a name="line22">22</a>     lastNameField.when_present.set(&#39;Rabbi&#39;)</pre></td>
+        </tr>
+        <tr class="uncovered">
+          <td><pre><a name="line23">23</a>     emailAddress.when_present.set(&#39;sornalirabbi@gmail.com&#39;)</pre></td>
+        </tr>
+        <tr class="uncovered">
+          <td><pre><a name="line24">24</a>     phoneNum.when_present.set(&#39;7039886880&#39;)</pre></td>
+        </tr>
+        <tr class="uncovered">
+          <td><pre><a name="line25">25</a>     addressField.when_present.set(&#39;8709 Huntsman blv&#39;)</pre></td>
+        </tr>
+        <tr class="uncovered">
+          <td><pre><a name="line26">26</a>     cityName.when_present.set(&#39;Springfield&#39;)</pre></td>
+        </tr>
+        <tr class="uncovered">
+          <td><pre><a name="line27">27</a>     stateName.when_present.select(&#39;Virginia&#39;)</pre></td>
+        </tr>
+        <tr class="uncovered">
+          <td><pre><a name="line28">28</a>     zipCode.when_present.set(&#39;22152&#39;)</pre></td>
+        </tr>
+        <tr class="uncovered">
+          <td><pre><a name="line29">29</a>     websiteName.when_present.set(&#39;www.sornalirabbbi.com&#39;)</pre></td>
+        </tr>
+        <tr class="uncovered">
+          <td><pre><a name="line30">30</a>     yesHosting.when_present.click</pre></td>
+        </tr>
+        <tr class="uncovered">
+          <td><pre><a name="line31">31</a>     projectDes.when_present.set(&#39;We are learning how to automate a webpage.&#39;)</pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line32">32</a>   end</pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line33">33</a> </pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line34">34</a> </pre></td>
+        </tr>
+        <tr class="marked">
+          <td><pre><a name="line35">35</a>   def fillOutAllInfoWithNo</pre></td>
+        </tr>
+        <tr class="uncovered">
+          <td><pre><a name="line36">36</a>     firstNameField.when_present.set(&#39;Sornali&#39;)</pre></td>
+        </tr>
+        <tr class="uncovered">
+          <td><pre><a name="line37">37</a>     lastNameField.when_present.set(&#39;Rabbi&#39;)</pre></td>
+        </tr>
+        <tr class="uncovered">
+          <td><pre><a name="line38">38</a>     emailAddress.when_present.set(&#39;sornalirabbi@gmail.com&#39;)</pre></td>
+        </tr>
+        <tr class="uncovered">
+          <td><pre><a name="line39">39</a>     phoneNum.when_present.set(&#39;7039886880&#39;)</pre></td>
+        </tr>
+        <tr class="uncovered">
+          <td><pre><a name="line40">40</a>     addressField.when_present.set(&#39;8709 Huntsman blv&#39;)</pre></td>
+        </tr>
+        <tr class="uncovered">
+          <td><pre><a name="line41">41</a>     cityName.when_present.set(&#39;Springfield&#39;)</pre></td>
+        </tr>
+        <tr class="uncovered">
+          <td><pre><a name="line42">42</a>     stateName.when_present.select(&#39;Virginia&#39;)</pre></td>
+        </tr>
+        <tr class="uncovered">
+          <td><pre><a name="line43">43</a>     zipCode.when_present.set(&#39;22152&#39;)</pre></td>
+        </tr>
+        <tr class="uncovered">
+          <td><pre><a name="line44">44</a>     websiteName.when_present.set(&#39;www.sornalirabbbi.com&#39;)</pre></td>
+        </tr>
+        <tr class="uncovered">
+          <td><pre><a name="line45">45</a>     noHosting.when_present.click</pre></td>
+        </tr>
+        <tr class="uncovered">
+          <td><pre><a name="line46">46</a>     projectDes.when_present.set(&#39;We are learning how to automate a webpage.&#39;)</pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line47">47</a>   end</pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line48">48</a> </pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line49">49</a> </pre></td>
+        </tr>
+        <tr class="marked">
+          <td><pre><a name="line50">50</a>   def clickOnSendButton</pre></td>
+        </tr>
+        <tr class="uncovered">
+          <td><pre><a name="line51">51</a>     sendBtn.when_present.click</pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line52">52</a>   end</pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line53">53</a> </pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line54">54</a> </pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line55">55</a> </pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line56">56</a> end</pre></td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p>Generated on 2018-05-19 10:33:05 -0400 with <a href="https://github.com/fguillen/simplecov-rcov">SimpleCov-RCov 0.2.3</a></p>
+
+  </body>
+</html>
