@@ -25,17 +25,17 @@
         <tbody>
           <tr>
             <td class="left_align"><a href="features-step_definitions-SeleniumEasyTestSuite_rb.html">features/step_definitions/SeleniumEasyTestSuite.rb</a></td>
-            <td class='right_align'><tt>89</tt></td>
-            <td class='right_align'><tt>49</tt></td>
-            <td class="left_align"><div class="percent_graph_legend"><tt class=''>74.16%</tt></div>
+            <td class='right_align'><tt>104</tt></td>
+            <td class='right_align'><tt>59</tt></td>
+            <td class="left_align"><div class="percent_graph_legend"><tt class=''>75.96%</tt></div>
       <div class="percent_graph">
-        <div class="covered" style="width:74px"></div>
-        <div class="uncovered" style="width:26px"></div>
+        <div class="covered" style="width:76px"></div>
+        <div class="uncovered" style="width:24px"></div>
       </div></td>
-            <td class="left_align"><div class="percent_graph_legend"><tt class=''>53.06%</tt></div>
+            <td class="left_align"><div class="percent_graph_legend"><tt class=''>57.63%</tt></div>
       <div class="percent_graph">
-        <div class="covered" style="width:53px"></div>
-        <div class="uncovered" style="width:47px"></div>
+        <div class="covered" style="width:58px"></div>
+        <div class="uncovered" style="width:42px"></div>
       </div></td>
           </tr>
         </tbody>
@@ -224,7 +224,7 @@
         <tr class="marked">
           <td><pre><a name="line59">59</a> Then(/^User click on Input Form Submit$/) do</pre></td>
         </tr>
-        <tr class="marked">
+        <tr class="uncovered">
           <td><pre><a name="line60">60</a>   on(SeleniumEasyHomePage).selectInputFormSubmit</pre></td>
         </tr>
         <tr class="inferred">
@@ -260,7 +260,7 @@
         <tr class="marked">
           <td><pre><a name="line71">71</a> Then(/^User fill out all the Information no option$/) do</pre></td>
         </tr>
-        <tr class="marked">
+        <tr class="uncovered">
           <td><pre><a name="line72">72</a>   on(InputFormPage).fillOutAllInfoWithNo</pre></td>
         </tr>
         <tr class="inferred">
@@ -317,10 +317,55 @@
         <tr class="inferred">
           <td><pre><a name="line90">90</a> </pre></td>
         </tr>
+        <tr class="marked">
+          <td><pre><a name="line91">91</a> Then(/^User click on JQurey Select Dropdown$/) do</pre></td>
+        </tr>
+        <tr class="marked">
+          <td><pre><a name="line92">92</a>   sleep 5</pre></td>
+        </tr>
+        <tr class="marked">
+          <td><pre><a name="line93">93</a>   on(SeleniumEasyHomePage).clickOnJQureyDropdown</pre></td>
+        </tr>
+        <tr class="marked">
+          <td><pre><a name="line94">94</a>   sleep 3</pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line95">95</a> end</pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line96">96</a> </pre></td>
+        </tr>
+        <tr class="marked">
+          <td><pre><a name="line97">97</a> Then(/^User Select all the Dropdown values$/) do</pre></td>
+        </tr>
+        <tr class="marked">
+          <td><pre><a name="line98">98</a>   sleep 3</pre></td>
+        </tr>
+        <tr class="marked">
+          <td><pre><a name="line99">99</a>   on(JQureySelectPage).selectValueFromAllDropdown</pre></td>
+        </tr>
+        <tr class="marked">
+          <td><pre><a name="line100">100</a>   sleep 2</pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line101">101</a> end</pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line102">102</a> </pre></td>
+        </tr>
+        <tr class="marked">
+          <td><pre><a name="line103">103</a> And(/^User Select a file from catagory options$/) do</pre></td>
+        </tr>
+        <tr class="marked">
+          <td><pre><a name="line104">104</a>   on(JQureySelectPage).selectAFile</pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line105">105</a> end</pre></td>
+        </tr>
       </tbody>
     </table>
 
-    <p>Generated on 2018-05-19 12:19:10 -0400 with <a href="https://github.com/fguillen/simplecov-rcov">SimpleCov-RCov 0.2.3</a></p>
+    <p>Generated on 2018-06-12 00:01:36 -0400 with <a href="https://github.com/fguillen/simplecov-rcov">SimpleCov-RCov 0.2.3</a></p>
 
   </body>
 </html>

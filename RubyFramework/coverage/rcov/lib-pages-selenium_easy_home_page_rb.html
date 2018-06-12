@@ -25,17 +25,17 @@
         <tbody>
           <tr>
             <td class="left_align"><a href="lib-pages-selenium_easy_home_page_rb.html">lib/pages/selenium_easy_home_page.rb</a></td>
-            <td class='right_align'><tt>65</tt></td>
-            <td class='right_align'><tt>23</tt></td>
-            <td class="left_align"><div class="percent_graph_legend"><tt class=''>92.31%</tt></div>
+            <td class='right_align'><tt>90</tt></td>
+            <td class='right_align'><tt>36</tt></td>
+            <td class="left_align"><div class="percent_graph_legend"><tt class=''>88.89%</tt></div>
       <div class="percent_graph">
-        <div class="covered" style="width:92px"></div>
-        <div class="uncovered" style="width:8px"></div>
+        <div class="covered" style="width:89px"></div>
+        <div class="uncovered" style="width:11px"></div>
       </div></td>
-            <td class="left_align"><div class="percent_graph_legend"><tt class=''>78.26%</tt></div>
+            <td class="left_align"><div class="percent_graph_legend"><tt class=''>72.22%</tt></div>
       <div class="percent_graph">
-        <div class="covered" style="width:78px"></div>
-        <div class="uncovered" style="width:22px"></div>
+        <div class="covered" style="width:72px"></div>
+        <div class="uncovered" style="width:28px"></div>
       </div></td>
           </tr>
         </tbody>
@@ -86,32 +86,32 @@
         <tr class="marked">
           <td><pre><a name="line13">13</a>   element(:ajaxForm) {|b|b.link(text:&quot;Ajax Form Submit&quot;)}</pre></td>
         </tr>
-        <tr class="inferred">
-          <td><pre><a name="line14">14</a> </pre></td>
+        <tr class="marked">
+          <td><pre><a name="line14">14</a>   element(:jQureyForm) {|b|b.link(text:&quot;JQuery Select dropdown&quot;)}</pre></td>
         </tr>
         <tr class="marked">
-          <td><pre><a name="line15">15</a> def clickOninputFormsDropDown</pre></td>
-        </tr>
-        <tr class="inferred">
-          <td><pre><a name="line16">16</a>   #@browser.link(text:&quot;Input Forms&quot;).click</pre></td>
+          <td><pre><a name="line15">15</a>   element(:datePicker) {|b|b.link(text:&quot;Date pickers&quot;)}</pre></td>
         </tr>
         <tr class="marked">
-          <td><pre><a name="line17">17</a>   inputFormsDropDown.click</pre></td>
+          <td><pre><a name="line16">16</a>   element(:bootStrapDatePicker) {|b|b.link(href:&quot;./bootstrap-date-picker-demo.html&quot;)}</pre></td>
+        </tr>
+        <tr class="marked">
+          <td><pre><a name="line17">17</a>   element(:jQureyDatePicker) {|b|b.link(href:&quot;./jquery-date-picker-demo.html&quot;)}</pre></td>
         </tr>
         <tr class="inferred">
-          <td><pre><a name="line18">18</a> end</pre></td>
+          <td><pre><a name="line18">18</a> </pre></td>
         </tr>
         <tr class="inferred">
           <td><pre><a name="line19">19</a> </pre></td>
         </tr>
+        <tr class="marked">
+          <td><pre><a name="line20">20</a>   def clickOninputFormsDropDown</pre></td>
+        </tr>
         <tr class="inferred">
-          <td><pre><a name="line20">20</a> </pre></td>
+          <td><pre><a name="line21">21</a>   #@browser.link(text:&quot;Input Forms&quot;).click</pre></td>
         </tr>
         <tr class="marked">
-          <td><pre><a name="line21">21</a> def clickOnsimpleFormDemo</pre></td>
-        </tr>
-        <tr class="uncovered">
-          <td><pre><a name="line22">22</a>   simpleFormDemo.click</pre></td>
+          <td><pre><a name="line22">22</a>   inputFormsDropDown.click</pre></td>
         </tr>
         <tr class="inferred">
           <td><pre><a name="line23">23</a> end</pre></td>
@@ -123,10 +123,10 @@
           <td><pre><a name="line25">25</a> </pre></td>
         </tr>
         <tr class="marked">
-          <td><pre><a name="line26">26</a> def clickOncheckboxDemo</pre></td>
+          <td><pre><a name="line26">26</a> def clickOnsimpleFormDemo</pre></td>
         </tr>
         <tr class="uncovered">
-          <td><pre><a name="line27">27</a>   checkboxDemo.click</pre></td>
+          <td><pre><a name="line27">27</a>   simpleFormDemo.click</pre></td>
         </tr>
         <tr class="inferred">
           <td><pre><a name="line28">28</a> end</pre></td>
@@ -138,10 +138,10 @@
           <td><pre><a name="line30">30</a> </pre></td>
         </tr>
         <tr class="marked">
-          <td><pre><a name="line31">31</a> def clickOnradioButtonDemo</pre></td>
+          <td><pre><a name="line31">31</a> def clickOncheckboxDemo</pre></td>
         </tr>
         <tr class="uncovered">
-          <td><pre><a name="line32">32</a>   radioButtonDemo.click</pre></td>
+          <td><pre><a name="line32">32</a>   checkboxDemo.click</pre></td>
         </tr>
         <tr class="inferred">
           <td><pre><a name="line33">33</a> end</pre></td>
@@ -153,10 +153,10 @@
           <td><pre><a name="line35">35</a> </pre></td>
         </tr>
         <tr class="marked">
-          <td><pre><a name="line36">36</a> def clickOnselectDropDownList</pre></td>
+          <td><pre><a name="line36">36</a> def clickOnradioButtonDemo</pre></td>
         </tr>
         <tr class="uncovered">
-          <td><pre><a name="line37">37</a>   selectDropDownList.click</pre></td>
+          <td><pre><a name="line37">37</a>   radioButtonDemo.click</pre></td>
         </tr>
         <tr class="inferred">
           <td><pre><a name="line38">38</a> end</pre></td>
@@ -167,17 +167,17 @@
         <tr class="inferred">
           <td><pre><a name="line40">40</a> </pre></td>
         </tr>
-        <tr class="inferred">
-          <td><pre><a name="line41">41</a> </pre></td>
-        </tr>
         <tr class="marked">
-          <td><pre><a name="line42">42</a> def selectInputFormSubmit</pre></td>
+          <td><pre><a name="line41">41</a> def clickOnselectDropDownList</pre></td>
         </tr>
-        <tr class="marked">
-          <td><pre><a name="line43">43</a>   inputFormSubmit.click</pre></td>
+        <tr class="uncovered">
+          <td><pre><a name="line42">42</a>   selectDropDownList.click</pre></td>
         </tr>
         <tr class="inferred">
-          <td><pre><a name="line44">44</a> end</pre></td>
+          <td><pre><a name="line43">43</a> end</pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line44">44</a> </pre></td>
         </tr>
         <tr class="inferred">
           <td><pre><a name="line45">45</a> </pre></td>
@@ -186,10 +186,10 @@
           <td><pre><a name="line46">46</a> </pre></td>
         </tr>
         <tr class="marked">
-          <td><pre><a name="line47">47</a> def selectAjaxForm</pre></td>
+          <td><pre><a name="line47">47</a> def selectInputFormSubmit</pre></td>
         </tr>
         <tr class="uncovered">
-          <td><pre><a name="line48">48</a>   ajaxForm.click</pre></td>
+          <td><pre><a name="line48">48</a>   inputFormSubmit.click</pre></td>
         </tr>
         <tr class="inferred">
           <td><pre><a name="line49">49</a> end</pre></td>
@@ -200,26 +200,26 @@
         <tr class="inferred">
           <td><pre><a name="line51">51</a> </pre></td>
         </tr>
-        <tr class="inferred">
-          <td><pre><a name="line52">52</a> </pre></td>
+        <tr class="marked">
+          <td><pre><a name="line52">52</a> def selectAjaxForm</pre></td>
+        </tr>
+        <tr class="uncovered">
+          <td><pre><a name="line53">53</a>   ajaxForm.click</pre></td>
         </tr>
         <tr class="inferred">
-          <td><pre><a name="line53">53</a> </pre></td>
-        </tr>
-        <tr class="inferred">
-          <td><pre><a name="line54">54</a> </pre></td>
+          <td><pre><a name="line54">54</a> end</pre></td>
         </tr>
         <tr class="inferred">
           <td><pre><a name="line55">55</a> </pre></td>
         </tr>
-        <tr class="inferred">
-          <td><pre><a name="line56">56</a> </pre></td>
+        <tr class="marked">
+          <td><pre><a name="line56">56</a>   def clickOnJQureyDropdown</pre></td>
+        </tr>
+        <tr class="marked">
+          <td><pre><a name="line57">57</a>     jQureyForm.click</pre></td>
         </tr>
         <tr class="inferred">
-          <td><pre><a name="line57">57</a> </pre></td>
-        </tr>
-        <tr class="inferred">
-          <td><pre><a name="line58">58</a> </pre></td>
+          <td><pre><a name="line58">58</a>   end</pre></td>
         </tr>
         <tr class="inferred">
           <td><pre><a name="line59">59</a> </pre></td>
@@ -227,28 +227,103 @@
         <tr class="inferred">
           <td><pre><a name="line60">60</a> </pre></td>
         </tr>
-        <tr class="inferred">
-          <td><pre><a name="line61">61</a> </pre></td>
+        <tr class="marked">
+          <td><pre><a name="line61">61</a>   def clickOnDatePickers</pre></td>
+        </tr>
+        <tr class="uncovered">
+          <td><pre><a name="line62">62</a>     datePicker.when_present.click</pre></td>
         </tr>
         <tr class="inferred">
-          <td><pre><a name="line62">62</a> </pre></td>
-        </tr>
-        <tr class="inferred">
-          <td><pre><a name="line63">63</a> </pre></td>
+          <td><pre><a name="line63">63</a>   end</pre></td>
         </tr>
         <tr class="inferred">
           <td><pre><a name="line64">64</a> </pre></td>
         </tr>
-        <tr class="inferred">
-          <td><pre><a name="line65">65</a> </pre></td>
+        <tr class="marked">
+          <td><pre><a name="line65">65</a>   def clickOnBootStrapDatePicker</pre></td>
+        </tr>
+        <tr class="uncovered">
+          <td><pre><a name="line66">66</a>     sleep 2</pre></td>
+        </tr>
+        <tr class="uncovered">
+          <td><pre><a name="line67">67</a>     bootStrapDatePicker.when_present.click</pre></td>
         </tr>
         <tr class="inferred">
-          <td><pre><a name="line66">66</a> end</pre></td>
+          <td><pre><a name="line68">68</a>   end</pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line69">69</a> </pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line70">70</a> </pre></td>
+        </tr>
+        <tr class="marked">
+          <td><pre><a name="line71">71</a>   def clickOnJQureyDatePicker</pre></td>
+        </tr>
+        <tr class="uncovered">
+          <td><pre><a name="line72">72</a>     jQureyDatePicker.when_present.click</pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line73">73</a>   end</pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line74">74</a> </pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line75">75</a> </pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line76">76</a> </pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line77">77</a> </pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line78">78</a> </pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line79">79</a> </pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line80">80</a> </pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line81">81</a> </pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line82">82</a> </pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line83">83</a> </pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line84">84</a> </pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line85">85</a> </pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line86">86</a> </pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line87">87</a> </pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line88">88</a> </pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line89">89</a> </pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line90">90</a> </pre></td>
+        </tr>
+        <tr class="inferred">
+          <td><pre><a name="line91">91</a> end</pre></td>
         </tr>
       </tbody>
     </table>
 
-    <p>Generated on 2018-05-19 12:19:10 -0400 with <a href="https://github.com/fguillen/simplecov-rcov">SimpleCov-RCov 0.2.3</a></p>
+    <p>Generated on 2018-06-12 00:01:36 -0400 with <a href="https://github.com/fguillen/simplecov-rcov">SimpleCov-RCov 0.2.3</a></p>
 
   </body>
 </html>
