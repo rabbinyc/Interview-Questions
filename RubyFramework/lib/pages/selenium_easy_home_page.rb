@@ -10,8 +10,14 @@ class SeleniumEasyHomePage<BasePage
   element(:selectDropDownList) {|b|b.link(text:"Select Dropdown List")}
   element(:inputFormSubmit) {|b|b.link(text:"Input Form Submit")}
   element(:ajaxForm) {|b|b.link(text:"Ajax Form Submit")}
+  element(:jQureyForm) {|b|b.link(text:"JQuery Select dropdown")}
+  element(:datePicker) {|b|b.link(text:"Date pickers")}
+  element(:bootStrapDatePicker) {|b|b.link(href:"./bootstrap-date-picker-demo.html")}
+  element(:jQureyDatePicker) {|b|b.link(href:"./jquery-date-picker-demo.html")}
 
-def clickOninputFormsDropDown
+
+
+  def clickOninputFormsDropDown
   #@browser.link(text:"Input Forms").click
   inputFormsDropDown.click
 end
@@ -48,6 +54,24 @@ def selectAjaxForm
 end
 
 
+  def clickOnJQureyDropdown
+    jQureyForm.click
+  end
+
+
+  def clickOnDatePickers
+    datePicker.when_present.click
+  end
+
+  def clickOnBootStrapDatePicker
+    sleep 2
+    bootStrapDatePicker.when_present.click
+  end
+
+
+  def clickOnJQureyDatePicker
+    jQureyDatePicker.when_present.click
+  end
 
 
 

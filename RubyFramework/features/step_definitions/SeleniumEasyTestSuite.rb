@@ -87,3 +87,20 @@ And(/^User get the Successfull Message$/) do
   on(AjaxFormPage).printAndVerifySuccessMSG
 end
 
+
+Then(/^User click on JQurey Select Dropdown$/) do
+  sleep 5
+  on(SeleniumEasyHomePage).clickOnJQureyDropdown
+  sleep 3
+end
+
+Then(/^User Select all the Dropdown values$/) do
+  sleep 3
+  on(JQureySelectPage).selectValueFromAllDropdown
+  sleep 2
+end
+
+And(/^User Select a file from catagory options$/) do
+  on(JQureySelectPage).selectAFile
+  sleep 2
+end

@@ -63,3 +63,11 @@ Scenario: Ajax Form Submit
   Then User Fill up Ajax Form
   Then User click on Submit Button
   And User get the Successfull Message
+
+
+  Scenario:JQuery Dropdown Functionality
+    Given User navigate to the Selenium Easy Home Page
+    When User click on the Input Form Drop Down Menu
+    Then User click on JQurey Select Dropdown
+    Then User Select all the Dropdown values
+    And User Select a file from catagory options
