@@ -52,8 +52,8 @@
       <file leaf-file-name="SeleniumEasyTestSuite.feature" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/features/SeleniumEasyTestSuite.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="68" column="22" selection-start-line="68" selection-start-column="22" selection-end-line="68" selection-end-column="22" />
+            <state relative-caret-position="291">
+              <caret line="72" column="48" lean-forward="true" selection-start-line="72" selection-start-column="48" selection-end-line="72" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -76,7 +76,7 @@
         <entry file="file://$PROJECT_DIR$/features/step_definitions/SeleniumEasyTestSuite.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1700">
-              <caret line="100" column="3" lean-forward="true" selection-start-line="100" selection-start-column="3" selection-end-line="100" selection-end-column="3" />
+              <caret line="100" column="3" selection-start-line="100" selection-start-column="3" selection-end-line="100" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -187,6 +187,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.ruby.settings.RubyActiveModuleSdkConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\UserDB\Documents\GitHub\Interview-Questions\RubyFramework\lib\pages" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -411,14 +416,11 @@
       <workItem from="1526741003436" duration="1524000" />
       <workItem from="1526746434933" duration="295000" />
       <workItem from="1526748490257" duration="118000" />
-      <workItem from="1528772190665" duration="842000" />
+      <workItem from="1528772190665" duration="1864000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Scenario__Ajax_Form_Submit - 2018.05.14 at 22h 10m 53s.xml">
-      <configuration name="Scenario: Ajax Form Submit" configurationId="CucumberRunConfigurationType" />
-    </history-entry>
     <history-entry file="Scenario__Input_Form_Submit_With_No - 2018.05.15 at 12h 16m 09s.xml">
       <configuration name="Scenario: Input Form Submit With No" configurationId="CucumberRunConfigurationType" />
     </history-entry>
@@ -446,9 +448,12 @@
     <history-entry file="Scenario__JQuery_Dropdown_Functionality_(1) - 2018.06.11 at 23h 08m 11s.xml">
       <configuration name="Scenario: JQuery Dropdown Functionality (1)" configurationId="CucumberRunConfigurationType" />
     </history-entry>
+    <history-entry file="Scenario__JQuery_Dropdown_Functionality_(2) - 2018.06.11 at 23h 11m 17s.xml">
+      <configuration name="Scenario: JQuery Dropdown Functionality (2)" configurationId="CucumberRunConfigurationType" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61509000" />
+    <option name="totallyTimeSpent" value="62531000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -460,7 +465,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.10665658" side_tool="true" visible="true" weight="0.32463294" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.89334345" visible="true" weight="0.32463294" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.89334345" weight="0.32463294" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
@@ -823,7 +828,7 @@
     <entry file="file://$PROJECT_DIR$/features/step_definitions/SeleniumEasyTestSuite.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1700">
-          <caret line="100" column="3" lean-forward="true" selection-start-line="100" selection-start-column="3" selection-end-line="100" selection-end-column="3" />
+          <caret line="100" column="3" selection-start-line="100" selection-start-column="3" selection-end-line="100" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -839,8 +844,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/features/SeleniumEasyTestSuite.feature">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="68" column="22" selection-start-line="68" selection-start-column="22" selection-end-line="68" selection-end-column="22" />
+        <state relative-caret-position="291">
+          <caret line="72" column="48" lean-forward="true" selection-start-line="72" selection-start-column="48" selection-end-line="72" selection-end-column="48" />
         </state>
       </provider>
     </entry>
